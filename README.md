@@ -2,4 +2,4 @@
 
 q to melee
 
-https://deonmartinez.github.io/BattleRoyalFunctioning/
+Play - https://deonmartinez.github.io/BattleRoyalFunctioning/
