@@ -1,8 +1,8 @@
 # BattleRoyalFunctioning
 
-W,A,S,D to Move /n
-Click to fire 
-q to melee
+W,A,S,D to Move |
+Click to fire |
+Q to melee
 
 Red Boxes are health Pickups
 Blue Boxes are Ammo
