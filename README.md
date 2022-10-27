@@ -1,6 +1,6 @@
 # BattleRoyalFunctioning
 
-W,A,S,D to Move
+W,A,S,D to Move /n
 Click to fire 
 q to melee
 
